@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "plugins": [
+            { "name": "typescript-tslint-plugin" }
+        ],
+    "target": "es2018",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "commonjs"
+    }
+}
