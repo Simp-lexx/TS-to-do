@@ -12,13 +12,14 @@
   "dependencies": {
     "inquirer": "^7.0.0",
     "lowdb": "^1.0.0",
+    "npm": "^6.11.2",
     "tslint": "^5.19.0",
     "typescript": "^3.6.2"
   },
   "devDependencies": {
     "@types/inquirer": "^6.5.0",
     "@types/lowdb": "^1.0.9",
-    "eslint": "^6.2.2",
+    "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2"
   }
